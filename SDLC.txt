@@ -1,0 +1,89 @@
+Project/Software Development Life Cycle
+    Step 1: Requirement/Purpose Understanding
+        Purpose/Aim - Showcase My Ability, Projects, Creativity and skills to the recruiters
+
+        What Type of website it will be - It will be a single page personal portfolio website for hiring purposes.
+
+        Who will be my target audience - Recruiters
+
+        What do you expect the look and feel to be? - Creative, responsive, visually appealing, easy to navigate
+
+        What are some features you wish to include? - Complete information about myself (about myself, education, Certifications and perks, Projects, 
+            Previous Experiances, Skills and Abilities)
+
+    Step 2: Planning
+        Structure and Pagination
+            About:
+                Start with a brief introduction about yourself. Include your name, a professional photo, and a concise summary highlighting your 
+                passion for web development, your goals, and what sets you apart. Make it personable but professional.
+
+            Skills:
+                Follow up with a dedicated section highlighting your key technical skills. This provides a quick snapshot of what you bring to the 
+                table. Consider categorizing your skills, such as programming languages, frameworks, and tools.
+            
+            Projects:
+                Showcase your past projects, starting with your best or most relevant work. Include project names, descriptions, your role, 
+                technologies used, and links to the live projects or GitHub repositories. This gives recruiters tangible examples of your abilities.
+            
+            Experience:
+                Move on to your work experience. List your relevant jobs, internships, or freelance work in reverse chronological order. Include 
+                your job title, company name, dates of employment, and a brief description of your responsibilities and accomplishments.
+            
+            Education:
+                Include details about your education, starting with your most recent degree. Include the name of the institution, degree earned, 
+                graduation date, and any relevant honors or achievements.
+
+            Contact Section / Footer
+
+        Technology stack
+            FrontEnd - HTML/CSS/js/tailwind CSS
+            BackEnd - flask
+            Database - MySql
+
+        Sitemap
+            Create the Sitemap first - detailed structure and relation with each other components
+
+    Step 3: Designing
+        Website Wireframe
+            Wireframes are low-fidelity representations with basic elements and content placeholders. They're part of the conceptual design, 
+            outlining the structure and functionality of the website.
+
+            Here are some free wireframe tools: 
+                Figma, InVision, Draw.io, Pencil Project, Miro, Wireframe.CC, MockFlow, Jumpchart.
+
+            Presetting Defaults
+                theme
+                Typography
+                Images 
+                Anchor tags
+                Basic Templates of containers
+
+        Resources
+            Main/Hero Cover images
+            Background images
+            Projects Cover Images
+            Social media SVG's
+            Other Svg's
+
+    Step 4: Content Creation
+        This phase develops the branding and marketing of your site or web app and lets you define your website purposes through content, 
+        which you can automate by using AI content writer.
+
+        Content is the only way to interact with end-users and convert them into customers, so make sure to pay due attention and focus on 
+        user’s problems and what solutions you can offer.
+
+    Step 5: Development
+        Coding
+            initially start with Front-End basic HTMl
+
+        Updating
+
+    Step 5: Testing
+
+    Step 6: Maintenance
+
+
+Layers of Web Development
+    CLient-Side/FrontEnd
+    Server-Side/BackEnd
+    Full-Stack/Integration of BackEnd with FrontEnd
