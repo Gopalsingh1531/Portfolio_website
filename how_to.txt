@@ -10,18 +10,18 @@ To start working with flask please follow these steps:
     open VsCode to the directory
         code .
         
---> To integrate HTML file in flask app,
+--> To integrate HTML file in flask app
     first create 'templates' folder in your virtualenv.
     then create an html file in templates folder.
     call this html page using render_template() function.
 
---> To integrate CSS file in flask app,
+--> To integrate CSS file in flask app
     first create 'static' folder in your virtualenv.
     then create a new folder inside static folder named 'css'
     create '.css' file in css folder.
     now to add css in html page use link tag and "{{ url_for('static', filename = 'css/style.css') }}" expression.
 
---> To integrate 'js' file in flask app,
+--> To integrate 'js' file in flask app
     first create 'static' folder in your virtualenv.
     then create a new folder inside static folder named 'script'
     create '.js' file in css folder.

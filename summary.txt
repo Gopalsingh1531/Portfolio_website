@@ -1,6 +1,7 @@
 Certainly! Creating a personal portfolio website is a great way to showcase your skills and projects. Here are some tips, 
 tools, and resources to help you get started:
 
+
 ### **1. Define Your Purpose and Audience:**
    - Clearly define the purpose of your portfolio (e.g., job seeking, freelance work, personal projects).
    - Identify your target audience and tailor your content accordingly.
