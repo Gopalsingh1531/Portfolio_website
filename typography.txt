@@ -1,0 +1,43 @@
+When choosing fonts for a portfolio website targeting recruiters, it's essential to prioritize readability, professionalism, 
+and a modern aesthetic. Here are three font combinations using Google Fonts that strike a balance between these factors for 
+headings and paragraphs:
+
+Option 1:
+
+    Headings (H1-H6):
+    - Font: [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
+    - Description: Playfair Display is an elegant serif font that adds a touch of sophistication, making it suitable for headings.
+
+    Paragraphs:
+    - Font: [Lato](https://fonts.google.com/specimen/Lato)
+    - Description: Lato is a clean and modern sans-serif font that provides excellent readability, making it suitable for body text.
+
+Option 2:
+
+    Headings (H1-H6):
+    - Font: [Montserrat](https://fonts.google.com/specimen/Montserrat)
+    - Description: Montserrat is a sans-serif font with a modern and professional appearance, making it ideal for headings.
+
+    Paragraphs:
+    - Font: [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab)
+    - Description: Roboto Slab is a serif font that combines a clean design with readability, creating a professional look for paragraphs.
+
+Option 3:
+
+    Headings (H1-H6):
+    - Font: [Raleway](https://fonts.google.com/specimen/Raleway)
+    - Description: Raleway is a modern and elegant sans-serif font that works well for headings, providing a contemporary feel.
+
+    Paragraphs:
+    - Font: [Merriweather](https://fonts.google.com/specimen/Merriweather)
+    - Description: Merriweather is a serif font with a classic and legible design, making it suitable for longer paragraphs.
+
+Option 4:
+
+    Headings (H1-H6):
+    - Font: [Oswald](https://fonts.google.com/specimen/Oswald)
+    - Description: Oswald is a bold and condensed sans-serif font that adds a sense of strength and modernity to headings.
+
+    Paragraphs:
+    - Font: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+    - Description: Open Sans is a versatile and legible sans-serif font, providing clarity and readability for paragraphs.

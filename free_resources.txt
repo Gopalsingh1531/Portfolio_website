@@ -1,0 +1,77 @@
+Free Images
+
+    Certainly! There are several open-source resources and platforms that provide high-quality images under free licenses, 
+    allowing you to use them in your website without restrictions. Here are some popular ones:
+
+    1. Unsplash:
+    - Website: [Unsplash](https://unsplash.com/)
+    - License: Unsplash photos are released under the Unsplash License, which is a very permissive license allowing for 
+    free use, including commercial use, without permission from or credit to the photographer.
+
+    2. Pexels:
+    - Website: [Pexels](https://www.pexels.com/)
+    - License: All photos and videos on Pexels are free to use for personal and commercial purposes, and no attribution 
+    is required.
+
+    3. Pixabay:
+    - Website: [Pixabay](https://pixabay.com/)
+    - License: Pixabay images and videos are released under the Pixabay License, which allows for free use without 
+    attribution.
+
+    4. Freepik:
+    - Website: [Freepik](https://www.freepik.com/)
+    - License: Freepik offers a mix of free and premium content. Free content generally requires attribution, so be 
+    sure to check the license for each specific resource.
+
+    5. StockSnap.io:
+    - Website: [StockSnap.io](https://stocksnap.io/)
+    - License: StockSnap.io provides photos under the Creative Commons CC0 license, allowing for free use without   
+    attribution.
+
+    6. Burst by Shopify:
+    - Website: [Burst](https://burst.shopify.com/)
+    - License: Burst offers high-resolution photos that are free for commercial use. They are licensed under the 
+    Shopify License, which is similar to CC0.
+
+    7. Reshot:
+    - Website: [Reshot](https://www.reshot.com/)
+    - License: Reshot offers a collection of handpicked, non-stocky images for free commercial and editorial use 
+    without attribution.
+
+    8. SplitShire:
+    - Website: [SplitShire](https://www.splitshire.com/)
+    - License: SplitShire provides high-quality photos for personal and commercial use without any restrictions.
+
+
+SVG's and animations
+    SVGRepo:
+        SVGRepo offers a vast collection of high-quality SVGs that you can download and use for free. The website allows you 
+        to search for specific icons and customize the color before downloading.
+
+    FontAwesome:
+        FontAwesome is a widely used icon set that provides both free and paid icons in SVG format. It's easy to integrate 
+        into your project, and the icons are scalable and customizable.
+
+    Heroicons:
+        Heroicons offers a set of free, MIT-licensed high-quality SVG icons for you to use in your web projects. It provides 
+        a variety of styles and categories.
+
+    Undraw:
+        Undraw provides a collection of customizable SVG illustrations that you can use freely in your projects. The 
+        illustrations cover a wide range of themes and can be easily customized to match your website's color scheme.
+    
+    Feather Icons:
+        Feather Icons is a collection of beautifully designed open-source icons. It provides a simple and consistent design 
+        language, and the icons are available in SVG format.
+    
+    Blobmaker:
+        Blobmaker is a tool that allows you to create SVG shapes or "blobs" with a variety of customization options. You can 
+        generate unique blobs and use them as decorative elements in your designs.
+    
+    Animate.css:
+        Animate.css is a popular library for adding CSS animations to your web projects. It provides a wide range of pre-built
+        animations that you can easily apply to your HTML elements.
+    
+    SVG.js:
+        SVG.js is a lightweight JavaScript library for working with SVG. It allows you to create and manipulate SVG elements 
+        easily, making it a useful resource for adding custom animations to your SVG graphics.

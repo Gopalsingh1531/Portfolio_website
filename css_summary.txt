@@ -1,0 +1,97 @@
+As a fresh web developer, it's completely normal to feel a bit overwhelmed when deciding which CSS attributes and properties
+to set as global for your website. Here's a step-by-step guide to help you approach this task:
+
+1. Reset or Normalize CSS:
+   - Consider using a CSS reset or normalize.css to ensure consistent styling across different browsers. This helps eliminate
+   default styling differences.
+
+2. Box Sizing:
+   - Set the box-sizing property globally to ensure consistent box models. This can help avoid unexpected layout issues.
+   ```css
+        * {
+            box-sizing: border-box;
+        }
+   ```
+
+3. Typography:
+   - Define global typography styles for headings, paragraphs, and links.
+   ```css
+        body {
+            font-family: 'Your Chosen Font', sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-weight: bold;
+        }
+
+        a {
+            text-decoration: none;
+            color: #007bff;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+   ```
+
+4. Colors and Backgrounds:
+   - Set background and text colors for the body and other common elements.
+   ```css
+        body {
+            background-color: #f8f8f8;
+            color: #333;
+        }
+   ```
+
+5. Margins and Padding:
+   - Establish consistent spacing for margins and padding to maintain a clean layout.
+   ```css
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        / Add more rules for specific elements if needed /
+   ```
+
+6. Responsive Design:
+   - Consider making your layout responsive by using relative units like percentages or viewport units.
+   ```css
+        img, video, iframe {
+            max-width: 100%;
+            height: auto;
+        }
+   ```
+
+7. Lists:
+   - Style lists to enhance readability.
+   ```css
+        ul, ol {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+   ```
+
+8. Forms:
+   - Apply consistent styling to form elements for a better user experience.
+   ```css
+        input, textarea, select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+        }
+   ```
+
+9. Flexbox/Grid:
+   - If you plan to use flexbox or grid, set up a basic layout.
+   ```css
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            / Add more rules as needed /
+        }
+   ```

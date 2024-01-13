@@ -1,0 +1,70 @@
+Alignment properties in CSS can be applied to various HTML tags to control the alignment of content within those elements. 
+Here are some common alignment properties and the types of HTML tags they are commonly applied to:
+
+1. Text Alignment (text-align):
+    - Supported Tags: Applied to block-level elements to control the horizontal alignment of text content.
+    css
+        p, h1, h2, h3, h4, h5, h6, div, etc. {
+            text-align: left | right | center | justify;
+        }
+   
+
+2. Vertical Alignment (vertical-align):
+    - Supported Tags: Often used with inline or inline-block elements to control their vertical alignment within a line of text or within a container.
+    css
+        img, span, input, etc. {
+            vertical-align: baseline | top | middle | bottom | text-top | text-bottom;
+        }
+   
+
+3. Flexbox (align-items, align-self, align-content):
+    - Supported Tags: Applied to elements within a flex container to control the alignment of flex items.
+    css
+        .flex-container {
+            display: flex;
+            align-items: stretch | flex-start | flex-end | center | baseline;
+            align-self: auto | flex-start | flex-end | center | baseline | stretch;
+            align-content: flex-start | flex-end | center | space-between | space-around | stretch;
+        }
+   
+
+4. Grid Layout (align-items, align-self, align-content):
+    - Supported Tags: Used with grid containers and items to control the alignment of grid items.
+    css
+        .grid-container {
+            display: grid;
+            align-items: stretch | start | end | center;
+            align-self: auto | start | end | center | stretch;
+            align-content: start | end | center | stretch | space-around | space-between | space-evenly;
+        }
+   
+
+5. Table Cell Alignment (vertical-align):
+    - Supported Tags: Applied to table cells to control the vertical alignment of content within a cell.
+    css
+        td, th {
+            vertical-align: top | middle | bottom | baseline;
+        }
+   
+
+6. Positioning (position, top, right, bottom, left):
+    - Supported Tags: Used for absolute or relative positioning of elements.
+    css
+        .absolute-positioned {
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+        .relative-positioned {
+            position: relative;
+            top: 10px;
+            left: 20px;
+        }
+   
+
+7. Line Height (line-height):
+    - Supported Tags: Applied to block-level elements to control the height of a line of text.
+    css
+        p, h1, h2, h3, h4, h5, h6, div, etc. {
+            line-height: normal | number | length | percentage;
+        }
